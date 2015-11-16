@@ -88,8 +88,8 @@ Web Design and Programming
  * The Web Starter Kit / Boilerplate
  * Comparing your design across multiple Web Browsers
  * Front-end Frameworks
-   * Twitter Bootstrap
-   * Google Material Design
+    * Twitter Bootstrap
+    * Google Material Design
 * The Modern Web
  * HTML5 Basics
  * CSS3 Basics

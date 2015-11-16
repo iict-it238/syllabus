@@ -82,9 +82,9 @@ Web Design and Programming
    * Google Web Designer
  * Principles of Site Design
  * Device-agnostic approach to Web Design.
-   * (AWD) Adaptive Web Design
-   * (RWD) Responsive Web Design
-   * Your first multi-device site
+    * (AWD) Adaptive Web Design
+    * (RWD) Responsive Web Design
+    * Your first multi-device site
  * The Web Starter Kit / Boilerplate
  * Comparing your design across multiple Web Browsers
  * Front-end Frameworks

@@ -78,8 +78,8 @@ Web Design and Programming
  * Graphic Design Tools for the Web
  * CSS Basics
  * WYSIWYG Editors
-   * Adobe DreamWeaver
-   * Google Web Designer
+    * Adobe DreamWeaver
+    * Google Web Designer
  * Principles of Site Design
  * Device-agnostic approach to Web Design.
     * (AWD) Adaptive Web Design
@@ -93,8 +93,8 @@ Web Design and Programming
 * The Modern Web
  * HTML5 Basics
  * CSS3 Basics
-   * Animations
-   * Transforms
+    * Animations
+    * Transforms
  * The Evergreen Web Browsers
 * Scripting for the Web
  * JavaScript Basics

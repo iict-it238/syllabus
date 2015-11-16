@@ -70,9 +70,9 @@ Web Design and Programming
    * HTML Editors
  * Embedding multimedia content
  * Setting up and controlling a space to publish on the Web.
-   * XAMPP
-   * WAMP
-   * Adobe DreamWeaver Local Hosting Setup
+    * XAMPP
+    * WAMP
+    * Adobe DreamWeaver Local Hosting Setup
  * Website Folder Structure and Project Organization
 * Designing the Web
  * Graphic Design Tools for the Web

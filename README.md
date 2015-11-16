@@ -57,8 +57,8 @@ Web Design and Programming
      * DNS: Domain Name System Servers
      * HTTP: Hypertext Transfer Protocol
      * Web Component files
-       * Code files
-       * Assets
+        * Code files
+        * Assets
    * Packets
 * Exploring the Web
  * Common features of a browser. (Internet Explorer, Edge, Google Chrome, Firefox...etc)
